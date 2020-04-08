@@ -2,7 +2,7 @@
   "name": "monster-details",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://udaay.github.io/monster-details",
+  "homepage": "http://Udaay.github.io/monster-details",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
